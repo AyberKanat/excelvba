@@ -1,0 +1,248 @@
+Hi Ayber,
+I’m happy to share high-level Enterprise rules!
+I’ll use the acronym VBI because VF Italy rebranded Enterprise Business Unit with Vodafone Business Italy.
+
+-	Who - our sellers
+o	SME: Small-Medium Enterprise represented by agencies with a big pyramid structure (area vendor, local vendor, sub-agent);
+o	SOHO: Small Office Home Office represented by agencies with a small pyramid structure (area vendor, local vendor, sub-agent);
+o	SME NP & SOHO NP: strong agencies present throughout Italy. NP = National Partner;
+o	VDA: Vodafone Direct Agent (old VSB Vodafone Small Business) represented by single agent/dealer;
+o	VDA Elite & Master: new remuneration model for VDA agents/dealers coordinated by an agency, called Master – started Oct’20;
+o	PA: agencies for public administration customers.
+
+-	How – our remuneration schemes for Incentive Compensation Management (ICM). Focus on value, not volume. So in VBI we calculate the net value, ie the gross value minus the discount applied. Main schemes:
+o	Acquisition & Clawback 
+	Basic Remuneration: “fake” p*q (): we have p=(v-d)*q*w. p=pay, v= value, d=discount, q=quantity, w=weight to “push” single products. Payment recurrency: monthly;
+	Inflow Race: prize based on net value inflow vs net value target; Payment recurrency: it depends on seller. From 1 to 3 months;
+	Clawback: provided for each acquisition scheme. Recurrence: it depends on scheme and product;
+o	Retention
+	Revenue Sharing: prize based on churn value, starting from billing data. Payment recurrency: bimonthly;
+	Delta Customer Base Value (in disposal): prize based on % value dilution, starting from billing data. Payment recurrency: bimonthly;
+o	Other
+	Loyalty Program: pay based on annual billing. Duration of the program: 3 years. Payment recurrency: annually;
+	Tokens: extra pay based on the loyalty of the new customer after 3/6/9/12 months
+
+-	Conditions – sooo many conditions mainly based on sellers, product category, discounts, type of sale, area and so on.
+
+Hope I helped you with this VBI overview 
+Please write me if you want to drill down on any topic!
+
+Thanks and regards,
+Leonardo
+
+
+C2 General
+From: Kanat, Ayber, Vodafone Turkey <ayber.kanat@vodafone.com> 
+Sent: Wednesday, January 20, 2021 12:46 PM
+To: Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com>; Chiarini, Carla, Vodafone Italy <Carla.CHIARINI@vodafone.com>; Dimaggio, Leonardo, Vodafone Italy <Leonardo.Dimaggio@Vodafone.com>
+Cc: Merten, Stefan, Vodafone DE <Stefan.Merten@vodafone.com>
+Subject: RE: A little help required
+
+Hi Claudio,
+
+No need to drill down for now.
+
+Similar conditions used here for product eligibility, what we have on top of p*q is target realization based conditions on calculation side (for instance, to gain points on product A, you need to achieve 100% on product B etc.). this is for an additional performance based scheme more like your 2000 euros bonus
+
+However, your approach on product value based points is much more understandable and starightforward. I believe the complexity is on deciding and maintaining product points on your side, for calculation perspective.
+
+I’ll give you the details afterwards, which you might use or more likely avoid for the upcoming scheme changes 
+
+Thanks, and warmest Regards,
+Ayber
+
+
+ 	 
+AYBER KANAT
+Commissions Executive
+
+Vodafone Turkey
+Vodafone Plaza
+Büyükdere Caddesi No:251 34398
+Maslak İstanbul
++90 850 542 0000
+
+ayber.kanat@vodafone.com 
+vodafone.com.tr
+
+ 	
+
+From: Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com> 
+Sent: Wednesday, January 20, 2021 2:29 PM
+To: Kanat, Ayber, Vodafone Turkey <ayber.kanat@vodafone.com>; Chiarini, Carla, Vodafone Italy <Carla.CHIARINI@vodafone.com>; Dimaggio, Leonardo, Vodafone Italy <Leonardo.Dimaggio@Vodafone.com>
+Cc: Merten, Stefan, Vodafone DE <Stefan.Merten@vodafone.com>
+Subject: RE: A little help required
+
+Hi Ayber
+
+We also have a lot of pre-conditions for the single product and this is the real complexity.
+
+I thought you were interesting only in the commission scheme logic.
+
+For example we got check on:
+
+Method of payment
+Presence of gigafamily
+Top up recharge (10 euro)
+Winback or not (sms or token)
+Offer plan
+Etc
+
+We also have some condition of exclusion and we apply clawback after 2 or 4 months, mainly on method of payment deactivation (prepaid) and sim deactivation (post paid)
+
+Let me know if you need a drill down on it
+
+Thanks and regards
+
+Claudio
+
+
+
+
+C2 General
+From: Kanat, Ayber, Vodafone Turkey <ayber.kanat@vodafone.com> 
+Sent: Wednesday, January 20, 2021 11:45 AM
+To: Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com>; Chiarini, Carla, Vodafone Italy <Carla.CHIARINI@vodafone.com>; Dimaggio, Leonardo, Vodafone Italy <Leonardo.Dimaggio@Vodafone.com>
+Cc: Merten, Stefan, Vodafone DE <Stefan.Merten@vodafone.com>
+Subject: RE: A little help required
+
+Hi Claudio,
+
+Thanks for your immediate response 
+
+Glad to have friends there.
+
+You sum up perfectly, thats all I need to know for CBU.
+
+After completing analysis, I’ll try to sum up our currrrent model, which is more complex on calculation with lots of pre-conditions on product categories. By the way we have same sales structure, except we do not own a VND like channel but we have around 20 regional distributors, managing small PoSs (around  10k ).
+
+Thanks and Kind Regards,
+Ayber
+
+
+ 	 
+AYBER KANAT
+Commissions Executive
+
+Vodafone Turkey
+Vodafone Plaza
+Büyükdere Caddesi No:251 34398
+Maslak İstanbul
++90 850 542 0000
+
+ayber.kanat@vodafone.com 
+vodafone.com.tr
+
+ 	
+
+From: Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com> 
+Sent: Wednesday, January 20, 2021 1:26 PM
+To: Kanat, Ayber, Vodafone Turkey <ayber.kanat@vodafone.com>; Chiarini, Carla, Vodafone Italy <Carla.CHIARINI@vodafone.com>; Dimaggio, Leonardo, Vodafone Italy <Leonardo.Dimaggio@Vodafone.com>
+Cc: Merten, Stefan, Vodafone DE <Stefan.Merten@vodafone.com>; Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com>
+Subject: RE: A little help required
+
+Hi Ayber
+
+Glad to know you.
+
+I can answer, high level,  for retails side, Leonardo will answer, right after, for enterprise  Market (EBU, Enterprise Business Unit).
+
+For CBU (consumer business unit) We have four main channel:
+
+VF one (they are one brand shop  )
+Partner shop (multi brand shops)
+Large chain (big retailer as Media Market for example)
+VND (a big structure owned by VF that manage about 4 thousand shops)
+
+Every channel has its peculiar incentive letters that is the only way  we recognize commissions.
+
+The structure of the incentive letter depend on channel, but except for VND where we apply a simple PxQ, for the other channel we have a progressive threshold scheme, with 5 different cluster of dealers, different threshold for cluster and different pay per threshold.
+
+The incentive letters provides a list of product/offer (usually divided for kind of product segment, mobile/fix/Customer Base), for each of this the letter provides a value in points.
+
+We gather all the sales and sum up the points, making the total, in order to let it participate to the progressive threshold (one for each kind of product) as illustrated in the following table (this is an example of mobile):
+
+
+MOB CL 1	€              1,4 	 €                     1,9 	 €            2,2 	 €               3,2 	 €                     1,9 
+Cluster 1	≤540	≤1116	≤2170	≤2930	>2930
+MOB CL 2	€              1,5 	 €                     2,0 	 €            2,3 	 €               3,3 	 €                     2,0 
+Cluster 2	≤730	≤1413	≤2820	≤3890	>3890
+MOB CL 3	€              1,6 	 €                     2,1 	 €            2,4 	 €               3,4 	 €                     2,1 
+Cluster 3	≤830	≤1602	≤3250	≤4540	>4540
+MOB CL 4	€              1,9 	 €                     2,2 	 €            2,5 	 €               3,5 	 €                     2,2 
+Cluster 4	≤980	≤1953	≤3890	≤5620	>5620
+MOB CL 5	€              2,0 	 €                     2,3 	 €            2,6 	 €               3,6 	 €                     2,3 
+Cluster 5	≤1310	≤2484	≤4970	≤6710	>6710
+MOB CL 6	€              2,1 	 €                     2,4 	 €            2,7 	 €               3,7 	 €                     2,4 
+Cluster 6	≤1660	≤2925	≤5520	≤8010	>8010
+
+
+We have also another commission scheme, in the same incentive letter, called  bonus completeness, that consider a target of points  for each product segment:
+
+Mobile 
+Fix
+CB
+
+If the dealer reach all the three target it receive an additional bonus (2000 euro for example)
+
+
+Please let me know if you need further information
+
+Thx and regards
+Claudio
+
+
+
+
+
+
+
+
+C2 General
+From: Kanat, Ayber, Vodafone Turkey <ayber.kanat@vodafone.com> 
+Sent: Tuesday, January 19, 2021 10:27 AM
+To: Chiarini, Carla, Vodafone Italy <Carla.CHIARINI@vodafone.com>; Bonaldo, Claudio, Vodafone Italy <Claudio.Bonaldo@vodafone.com>; Dimaggio, Leonardo, Vodafone Italy <Leonardo.Dimaggio@Vodafone.com>
+Cc: Merten, Stefan, Vodafone DE <Stefan.Merten@vodafone.com>
+Subject: A little help required
+
+Hi All,
+
+Hope this mail finds you both well and happy.
+
+I am preparing an analysis on local commission scheme here in Turkey.
+
+Since we are currently mainly acquisition focused and our retail channels are strong partners I’d like to make a comparison with VF Italy Commission scheme in highlights, which, as far as I know ,have more similar Sales structure than others. 
+
+If it is convenient for you could you please share some insights on your schemes in a conceptual manner. I’ll be happy if it is possible this week.
+
+Kind Regards,
+Ayber. 
+
+ 	 
+AYBER KANAT
+Commissions Executive
+
+Vodafone Turkey
+Vodafone Plaza
+Büyükdere Caddesi No:251 34398
+Maslak İstanbul
++90 850 542 0000
+
+ayber.kanat@vodafone.com 
+vodafone.com.tr
+
+ 	
+
+
+
+Yasal Uyarı : 
+Bu elektronik posta işbu linki kullanarak ulaşabileceğiniz Koşul ve Şartlar dokumanına tabidir 
+http://www.vodafone.com.tr/VodafoneHakkinda/eposta-hukuki-sartlar.php 
+
+Yasal Uyarı : 
+Bu elektronik posta işbu linki kullanarak ulaşabileceğiniz Koşul ve Şartlar dokumanına tabidir 
+http://www.vodafone.com.tr/VodafoneHakkinda/eposta-hukuki-sartlar.php 
+
+Yasal Uyarı : 
+Bu elektronik posta işbu linki kullanarak ulaşabileceğiniz Koşul ve Şartlar dokumanına tabidir 
+http://www.vodafone.com.tr/VodafoneHakkinda/eposta-hukuki-sartlar.php 
